@@ -9,4 +9,4 @@ I'm interested in:
 - 📊 Data Engineering
 - 🐍 Backend Development
 
-[![Jaque0707's GitHub stats](https://github-stats-extended.vercel.app/api?username=Jaque0707&theme=radical)](https://github.com/stats-organization/github-stats-extended)
+[![Jaque0707's GitHub stats](https://github-stats-extended.vercel.app/api?username=Jaque0707&show_icons=true&theme=catppuccin_latte)](https://github.com/stats-organization/github-stats-extended)
